@@ -1,0 +1,21 @@
+html{
+    font-family: 'roboto',sans-serif ;
+}
+/* Box -model */
+/* modelo de caixa
+/* largura , altura, espaçamentos , preechimento
+/* bordas , cor fundos , maneira que é vista pelo htlm
+*/
+
+header{
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+
+.content{
+width: 90%;
+max-width: 1100%;
+
+margin:  0 auto;
+}
